@@ -3,4 +3,6 @@ FashionBoutique.cs,
 MaximumAndMinimumElement.cs,
 SimpleTextEditor.cs,
 SongsQueue.cs,
-TruckTour.cs. This is the program for SoftUni tasks.
+TruckTour.cs. 
+
+This is the program for SoftUni tasks.
